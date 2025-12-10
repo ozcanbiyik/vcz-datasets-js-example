@@ -1,0 +1,15 @@
+{
+  "name": "vcz-datasets-js-example",
+  "version": "1.0.0",
+  "description": "JavaScript example for consuming the VibeCodersZone (VCZ) public AI datasets.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "author": "VibeCodersZone",
+  "license": "MIT"
+}
